@@ -55,5 +55,5 @@ If you want to check the api go to this url
 http://127.0.0.1:8000/docs  # paste in browser
 
 
-😁 Happy Coding
+😁 Happy Coding 🍀
 
