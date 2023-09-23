@@ -9,7 +9,7 @@ an also data is saved mysql database
 #To Run This project
 
 
-Create a Virtual Environment in python 3.9 or grater 
+Create a Virtual Environment in python 3.9 or greater otherwise it will not work. 
 
 
 $python -m venv envname
