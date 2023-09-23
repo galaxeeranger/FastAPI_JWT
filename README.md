@@ -49,7 +49,7 @@ $uvicorn main:app --reload
 Hit the url you got in terminal and your good to go.:
 
 
-If you want to check the api got to this url
+If you want to check the api go to this url
 
 
 http://127.0.0.1:8000/docs  # paste in browser
